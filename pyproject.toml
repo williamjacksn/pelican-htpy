@@ -1,10 +1,10 @@
 [project]
 name = "pelican-htpy"
 version = "2026.0"
-description = "Pelican plugin to use htpy for templates"
+description = "A Pelican plugin that adds support for htpy templates"
 readme = "README.md"
 authors = [
-    { name = "William Jackson", email = "565174+williamjacksn@users.noreply.github.com" }
+    { name = "William Jackson", email = "william@subtlecoolness.com" }
 ]
 requires-python = ">=3.14"
 dependencies = [
