@@ -9,7 +9,7 @@ authors = [
 requires-python = ">=3.14"
 dependencies = [
     "htpy>=26.5.1",
-    "markupsafe>=3.0.3",
+    "markupsafe>=3.0.4",
     "pelican>=4.12.0",
 ]
 
