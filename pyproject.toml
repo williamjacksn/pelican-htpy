@@ -20,7 +20,7 @@ pelican-htpy = "pelican.plugins.htpy:main"
 dev = [
     "pytest>=9.1.1",
     "ruff>=0.17.1",
-    "ty>=0.0.80",
+    "ty>=0.0.90",
     "uv-build>=0.13.5",
 ]
 
