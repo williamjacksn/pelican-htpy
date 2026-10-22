@@ -21,10 +21,11 @@ dev = [
     "pytest>=9.1.1",
     "ruff>=0.16.7",
     "ty>=0.0.80",
+    "uv-build>=0.13.5",
 ]
 
 [build-system]
-requires = ["uv_build>=0.12.12,<0.13.0"]
+requires = ["uv-build>=0.13.5,<0.14.0"]
 build-backend = "uv_build"
 
 [tool.uv.build-backend]
